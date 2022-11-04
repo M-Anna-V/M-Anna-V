@@ -30,6 +30,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
+### EF SET ENGLISH CERTIFICATE 
+[EF Standard English Test 65/100 - C1](https://www.efset.org/cert/Mk5BGo))
+
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Lucca_2)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](mailto:annamartyushev@gmail.com)
