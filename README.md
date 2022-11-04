@@ -3,7 +3,13 @@
 
 ### I'm a manual tester who has strong desire to grow and improve in the field of Quality Assurance, willingness to learn and the ability to keep up with the latest QA trends.
 
-- [x] QA Course by Vadim Ksendzov (Apr 2022 - Nov 2022)
+:heavy_check_mark: QA Course by Vadim Ksendzov (Apr 2022 - Nov 2022)
+
+Watch my homework:
+- [Git, Gitbash](https://github.com/M-Anna-V/Terminal_Github_HW)
+- [SQL](https://github.com/M-Anna-V/SQL)
+- [Postman](https://github.com/M-Anna-V/Postman_HW)
+- [JavaScript](https://github.com/M-Anna-V/JS_basics_HW)
 
 ### Tools and skills:
 ![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git)
