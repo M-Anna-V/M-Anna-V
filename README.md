@@ -8,7 +8,7 @@ QA Course by Vadim Ksendzov (Apr 2022 - Nov 2022)
 ### Tools and skills:
 ![Git](https://img.shields.io/badge/-<Git>-<000000>)
 
-Connect with me:
+### Connect with me:
 
 
 
