@@ -10,6 +10,7 @@
 - [SQL](https://github.com/M-Anna-V/SQL)
 - [Postman](https://github.com/M-Anna-V/Postman_HW)
 - [JavaScript](https://github.com/M-Anna-V/JS_basics_HW)
+- [JMeter](https://github.com/M-Anna-V/JMeter)
 
 ### My documentation:
 - [Requirements (EN)](https://docs.google.com/spreadsheets/d/1VfznyuNFYooORj3zX9VW92k0HyRA6aLQiKwB26grvMw/edit?usp=sharing)
