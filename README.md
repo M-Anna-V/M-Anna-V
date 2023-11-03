@@ -28,7 +28,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=for-the-badge&logo=Postman)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=JavaScript)
 
-### EF SET ENGLISH CERTIFICATE 
+### ENGLISH CERTIFICATES 
 [EF Standard English Test 65/100 - C1](https://www.efset.org/cert/Mk5BGo))
 [Duolingo English Test ocerall score 110](https://certs.duolingo.com/65f0352753dc5426916a1059bc843e05))
 
