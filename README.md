@@ -1,8 +1,5 @@
 ### Hello!👋 I am Anna Martyusheva. Welcome to my GitHub! 
 
-
-### I'm a manual tester who has strong desire to grow and improve in the field of Quality Assurance, willingness to learn and the ability to keep up with the latest QA trends.
-
 :heavy_check_mark: QA Course by Vadim Ksendzov (Apr 2022 - Nov 2022)
 
 ### Watch my homework:
@@ -33,11 +30,12 @@
 
 ### EF SET ENGLISH CERTIFICATE 
 [EF Standard English Test 65/100 - C1](https://www.efset.org/cert/Mk5BGo))
+[Duolingo Englisg Test ocerall score 110]([https://www.efset.org/cert/Mk5BGo](https://certs.duolingo.com/65f0352753dc5426916a1059bc843e05)))
 
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/Lucca_2)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail)](mailto:annamartyushev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/anna-martyusheva-b5a99b23a)
+
 
 
 
